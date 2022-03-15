@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ShamaClock</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+
+    <string name="fan_made_app">ShamaClock is a fan-made widget app for Shamanzs</string>
+    <string name="shamanzs_twitter"></string>
+</resources>
